@@ -19,7 +19,7 @@ pip install pillow
 ### 2. Configure o caminho da imagem
 No código, altere a variável `path` para apontar para a imagem desejada:
 ```python
-path = r"C:\Users\Werneck\OneDrive\Documentos\Cursos\Projeto Baires-ML-DIO\Lena.png"
+path = r"C:\Users\Local_Do_Arquivo\Imagem.png"
 ```
 
 ### 3. Execute o script
