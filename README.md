@@ -43,13 +43,16 @@ python nome_do_arquivo.py
 
 ## Exemplo de Uso
 Imagem original:
-![Imagem original](exemplo_original.png)
+
+![Imagem original](Lena.png)
 
 Imagem em tons de cinza:
-![Imagem em tons de cinza](exemplo_cinza.png)
+
+![Imagem em tons de cinza](Lena_escala_cinza.png)
 
 Imagem binarizada:
-![Imagem binarizada](exemplo_binaria.png)
+
+![Imagem binarizada](Lena_preto_branco.png)
 
 ## Autor
 - **Vinícius Werneck**
